@@ -1,4 +1,4 @@
-#**Welcome to the Machine Learning Journey**
+#Welcome to the Machine Learning Journey**
 
 I am thrilled that you have stumbled upon our repository, and I hope you will find it to be a valuable resource as you embark on your journey of studying machine learning.
 
