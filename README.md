@@ -46,4 +46,4 @@ Whether you are just starting out, or are already well on your way, I wish you t
 
 * [Anomaly_Detection](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/Anomaly_Detection.ipynb)
 
-*[Time Series Forecasting with Recurrent Neural Network (RNN)](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/BikeSharing_V3.ipynb)
+* [Time Series Forecasting with Recurrent Neural Network (RNN)](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/BikeSharing_V3.ipynb)
