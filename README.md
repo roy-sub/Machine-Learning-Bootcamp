@@ -34,7 +34,7 @@ Whether you are just starting out, or are already well on your way, I wish you t
 
 * [Multi_class_Classifier](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/Multi_class_Classifier.ipynb)
 
-* [ImageDataGenerator_with_a_Validation_Set](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/ImageDataGenerator_with_a_Validation_Set.ipynb}
+* [ImageDataGenerator_with_a_Validation_Set](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/ImageDataGenerator_with_a_Validation_Set.ipynb)
 
 * [Data_Augmentation_on_the_Horses_or_Humans_Dataset](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/Data_Augmentation_on_the_Horses_or_Humans_Dataset.ipynb)
 
