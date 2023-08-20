@@ -303,7 +303,7 @@ complex chains with multiple steps.
 you to view the execution steps, delve into chain details, and add examples to datasets effortlessly. Creating datasets for evaluation is fundamental. The platform's capability 
 to add examples to datasets simplifies the process, enabling you to accumulate examples gradually for a robust evaluation cycle.
 
-Conclusion: Evaluating LLM-based applications requires a comprehensive approach that encompasses manual and automated techniques. With tools like langchain.debug and the LangChain Evaluation Platform, developers can gain insights into chain execution and efficiently create datasets for evaluation. As the landscape of language model application development evolves, embracing these evaluation practices becomes essential for building reliable and accurate applications.
+Evaluating LLM-based applications requires a comprehensive approach that encompasses manual and automated techniques. With tools like langchain.debug and the LangChain Evaluation Platform, developers can gain insights into chain execution and efficiently create datasets for evaluation. As the landscape of language model application development evolves, embracing these evaluation practices becomes essential for building reliable and accurate applications.
 
 ### Agents
 
