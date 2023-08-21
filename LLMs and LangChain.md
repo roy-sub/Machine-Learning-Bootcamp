@@ -106,8 +106,6 @@ In this blog I will talk about prompts, which are how you get models to do usefu
 it with models. And then I'll talk about chains, which are more end-to-end use cases along with agents, which are a very exciting type of end-to-end use case which uses the 
 model as a reasoning engine.
 
-### Models, Prompts and Output Parsers
-
 ### Memory
 
 ![image](https://github.com/roy-sub/Machine-Learning-Bootcamp/blob/main/LLM%20Memory.png)
