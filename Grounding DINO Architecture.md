@@ -9,6 +9,7 @@ To understand the architecture of Grounding DINO we need to have an overview of 
 
 ![image](https://drive.google.com/uc?export=view&id=15TvSiCXGftr3ygfFzD6d5xzOgb_sqOZf) 
 ---
+
 1. **Diffusion of Different Modalities :** Grounding DINO's primary purpose is to facilitate the understanding and interaction between different data modalities, specifically text and images. This diffusion enables the model to compare, contrast, and draw insights from these heterogeneous data sources.
 
 At the foundation of Grounding DINO lies the process of feature extraction. It begins by processing textual information and images separately. Textual data is processed through a 
