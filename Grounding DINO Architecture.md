@@ -77,11 +77,11 @@ The Cross-Modality Decoder is like the puzzle solver in this model. It takes all
 
 **v. What are Key, Value, and Query in terms of “Attention”? Can you explain them in Layman’s terms?**
 
-a. Query is like the question you ask. For example, if you're looking at a picture and you want to know, "What color is the car?", the question "What color is the car?" is the query.
+**a.** Query is like the question you ask. For example, if you're looking at a picture and you want to know, "What color is the car?", the question "What color is the car?" is the query.
 
-b. Key is like a keyword or a hint. In our car color example, the key could be the word "car." It's something that helps you focus on the right part of the picture.
+**b.** Key is like a keyword or a hint. In our car color example, the key could be the word "car." It's something that helps you focus on the right part of the picture.
 
-c. Value is the answer to the question. So, if the query is "What color is the car?" and the key is "car," the value is the actual color, like "blue."
+**c.** Value is the answer to the question. So, if the query is "What color is the car?" and the key is "car," the value is the actual color, like "blue."
 
 Think of it like a librarian (the model) who uses keywords (keys) to find the right book (value) when you ask a question (query) in a big library. The keys help the librarian find the most relevant book quickly.
 
