@@ -16,7 +16,7 @@ At the foundation of Grounding DINO lies the process of feature extraction. It b
 text backbone model, such as BERT, which converts words and phrases into meaningful numerical representations. Image data is similarly transformed using an image backbone, often 
 based on models like Vision Transformer (ViT). This step results in a rich representation of the image content.
 
-Feature Extraction - Cross-Modality Feature Fusion : The crux of Grounding DINO's capabilities is the cross-modality feature fusion process. This process is crucial in 
+**Feature Extraction -** Cross-Modality Feature Fusion : The crux of Grounding DINO's capabilities is the cross-modality feature fusion process. This process is crucial in 
 integrating textual and visual information cohesively -
 
 i. **Text-to-Visual Cross Attention :** Here, the model learns to align and associate portions of the textual input with the corresponding visual features. It helps in establishing 
