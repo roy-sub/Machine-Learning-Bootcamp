@@ -54,3 +54,35 @@ on how to fine-tune Grounding DINO, consider referring to: [Click Here](https://
 
 This resource will provide you with detailed information, instructions, and examples on how to customize and optimize the model to suit your unique requirements. 
 Fine-tuning is a powerful technique that allows you to unlock the full potential of Grounding DINO for various applications, making it a valuable asset for your AI projects.
+
+---
+
+## Frequently Asked Questions :
+
+**i. What is meant by "cross-modality feature fusion," and why is it crucial for this model?**
+
+Cross-modality feature fusion means combining information from different types of data, like text and images, to get a more complete understanding of the content. In the case of Grounding DINO, it's essential because it helps the model connect words in the text with parts of an image. For instance, when you say, "a cat on a mat," it helps the model figure out which part of the image has a cat and a mat.
+
+**ii. What is the role of the Feedforward Neural Network (FNN) in Grounding DINO, and how does it refine the fused representations?**
+
+The Feedforward Neural Network, or FNN, is like a filter that refines the combined information. It makes sure the mixed data is precise and carries all the important details. Think of it like a chef who tastes a dish and adjusts the seasoning to make it just right. The FNN fine-tunes the fused data to be as accurate as possible.
+
+**iii. What is meant by "Language-Guided Query-Selection," and how does it guide the model in selecting relevant visual features?**
+
+Language-guided query-selection is like having a guide who tells you which parts of an image to focus on. For example, if you have a description like "a red apple," the guide helps the model know that it should look for something red and apple-shaped in the image. This makes it easier to find the right parts of the picture that match the text.
+
+**iv. What is the "Cross-Modality Decoder," and how does it refine the model's understanding of multi-modal data?**
+
+The Cross-Modality Decoder is like the puzzle solver in this model. It takes all the information from both the text and the image and makes a final picture in its mind. It does this by paying attention to the most important parts of both text and image. It helps the model understand how the different pieces fit together to create a full picture.
+
+**v. What are Key, Value, and Query in terms of “Attention”? Can you explain them in Layman’s terms?**
+
+a. Query is like the question you ask. For example, if you're looking at a picture and you want to know, "What color is the car?", the question "What color is the car?" is the query.
+
+b. Key is like a keyword or a hint. In our car color example, the key could be the word "car." It's something that helps you focus on the right part of the picture.
+
+c. Value is the answer to the question. So, if the query is "What color is the car?" and the key is "car," the value is the actual color, like "blue."
+
+Think of it like a librarian (the model) who uses keywords (keys) to find the right book (value) when you ask a question (query) in a big library. The keys help the librarian find the most relevant book quickly.
+
+**Note :** In Grounding DINO, these concepts are used to help the model focus on the right parts of text and images, which is crucial for understanding and connecting different types of information.
